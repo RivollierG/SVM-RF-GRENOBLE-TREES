@@ -3,7 +3,7 @@
 ### Objectives
 
 * Discover SVM and Random Forest algorithms.  
-* Predict tree planting year that are missing in the [Grenoble Aglomération Trees dataset](https://data.metropolegrenoble.fr/ckan/dataset/les-arbres-de-grenoble).  
+* Predict tree planting year that are missing in the [Grenoble Agglomération Trees dataset](https://data.metropolegrenoble.fr/ckan/dataset/les-arbres-de-grenoble).  
 * This project was made in three days at the campus numérique in the Apls.
 
 
