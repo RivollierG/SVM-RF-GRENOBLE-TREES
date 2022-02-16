@@ -17,7 +17,7 @@
 * The `Data/` folder is missing for saving space purpose
 
 After pull, create a folder in the repo name `Data`, and put the .csv file into.  
-The .csv file can be found. [here](https://data.metropolegrenoble.fr/ckan/dataset/les-arbres-de-grenoble) and need to be rename `ARBRE.csv`.
+The .csv file can be found [here](https://data.metropolegrenoble.fr/ckan/dataset/les-arbres-de-grenoble) and need to be rename `ARBRE.csv`.
   
 * preprocessing.py
 
@@ -50,4 +50,5 @@ This last file is for comparison between the four models, retrain them on all av
 * Parallelize all model (n_jobs=-1)
 * I need to comment my code more!
 * Pickle system file is nice for saving python object, but binary files and Git ...
+* Non need to bootstrap the random forest on train subset
 
